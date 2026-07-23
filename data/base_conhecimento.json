@@ -1,0 +1,21 @@
+{
+    "phishing": "Phishing é um golpe utilizado para roubar informações pessoais através de mensagens ou sites falsos. Nunca clique em links suspeitos e sempre verifique o remetente.",
+
+    "senha": "Uma senha segura deve possuir pelo menos 12 caracteres, letras maiúsculas, minúsculas, números e caracteres especiais.",
+
+    "2fa": "A autenticação em dois fatores adiciona uma camada extra de segurança utilizando um segundo código de verificação.",
+
+    "malware": "Malware é qualquer programa desenvolvido para causar danos ou roubar informações do computador.",
+
+    "ransomware": "Ransomware é um malware que criptografa arquivos e exige pagamento para liberá-los.",
+
+    "vpn": "VPN cria uma conexão criptografada entre seu dispositivo e a internet, aumentando sua privacidade.",
+
+    "backup": "Backup é uma cópia de segurança dos seus arquivos. Recomenda-se manter cópias em locais diferentes.",
+
+    "engenharia social": "Engenharia social consiste em manipular pessoas para obter informações confidenciais.",
+
+    "antivirus": "Um antivírus ajuda a detectar, bloquear e remover programas maliciosos.",
+
+    "atualização": "Manter o sistema operacional atualizado reduz falhas de segurança conhecidas."
+}
